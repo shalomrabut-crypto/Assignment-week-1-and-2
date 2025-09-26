@@ -1,6 +1,7 @@
-/*Name:RABUt RE SHALOM.
+/*Name:RABUT RE SHALOM.
 Registration number: PA106/G/29293/25
-assignment about volume of a cylinder*/
+Assignment about volume of a cylinder
+*/
 
 #include<stdio.h>
 int main(){
