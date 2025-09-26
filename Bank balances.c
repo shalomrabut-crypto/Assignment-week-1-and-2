@@ -1,6 +1,7 @@
 /* Name:RABUT RE SHALOM
 Registration number:PA106/G/29293/25
-Assignement about a prompt to show name idnumber and bank balance*/
+Assignement about a prompt to show name idnumber and bank balance
+*/
 #include <stdio.h>
 
 int main() {
