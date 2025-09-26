@@ -1,4 +1,6 @@
-#include<stdio.h>
+/*Name:RABUT RE SHALOM 
+Reg number:PA106/G/29293/ 25
+assignment aboutcalculation of volume*/#include<stdio.h>
 int main(){
    float radius, height, pi, Area;
   
