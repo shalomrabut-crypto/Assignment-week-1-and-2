@@ -1,3 +1,6 @@
+/*NAME:RABUT RE SHALOM 
+REG NUMBER:PA106G/29293/25/
+Assignment about showing units taken by a student*/
 #include<stdio.h>
 int main(){
    printf("Mathematics for science\n");
