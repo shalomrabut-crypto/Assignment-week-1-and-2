@@ -1,6 +1,6 @@
 /*NAME:RABUT RE SHALOM
 REG NUMBER:PA106/G/29293/25
-Assignmentabout calculating simple interest*/
+Assignment about calculating simple interest*/
 #include<stdio.h>
 int main(){
   float principle, rate, time, interest;
